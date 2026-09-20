@@ -1,13 +1,13 @@
 {
   "name": "Bot Akaza",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "AkazaOp",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "NOVA-HQ.aternos.me",
-    "port": 35723,
+    "ip": "Nova-strengthsmp.aternos.me",
+    "port": 58437,
     "version": "1.20.1",
     "try-creative": false
   },
